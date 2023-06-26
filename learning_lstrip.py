@@ -7,3 +7,8 @@ links = [
 
 for link in links:
     print(link.lstrip("www."))
+
+print("======================")
+
+for link in links:
+    print(link.lstrip("w."))
